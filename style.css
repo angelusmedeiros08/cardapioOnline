@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{font-family: Arial, Helvetica, sans-serif;background-image: url(img/bg.png);color:#ffff;}
+
+.boxProduto img{width: 400px;}
+.logo{width: 250px;}
+
+header{background-color: #1E1F22;display: flex;flex-direction: column;justify-content: center;align-items: center;padding: 20px;}
+nav ul{display: flex;gap: 20px;list-style: none;}
+nav ul a{color: #ffff;text-decoration: none;font-size: 18px;}
+
+
+
+h1, h2{text-align: center;margin: 20px 0;}
+
+.boxProduto{background-color: rgba(37, 37, 37, 0.8);margin: 20px auto;max-width: 890px;border-radius: 20px;display: flex;align-items: center;}
+.boxTexto{width:400px;display: flex;flex-direction: column;gap: 20px;align-items: flex-start;}
+.boxImg img{width: 400px;}
+
+.btn{background-color: #FFAE00;padding: 20px;border: none;border-radius: 10px;color: #ffff;width: 150px;}
+.btn:hover{background-color: #a37104;transform: scale(1.05);}
+h2{color: #FFAE00;}
