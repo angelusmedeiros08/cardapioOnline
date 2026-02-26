@@ -21,7 +21,7 @@ nav ul a{color: #ffff;text-decoration: none;font-size: 18px;}
 
 h1, h2{text-align: center;margin: 20px 0;}
 
-.boxProduto{background-color: rgba(37, 37, 37, 0.8);margin: 20px auto;max-width: 890px;border-radius: 20px;display: flex;align-items: center;flex-wrap: wrap;}
+.boxProduto{background-color: rgba(37, 37, 37, 0.8);margin: 20px auto;max-width: 890px;border-radius: 20px;display: flex;align-items: center;flex-wrap: wrap;padding: 10px 0;}
 .boxTexto{width:400px;display: flex;flex-direction: column;gap: 20px;align-items: flex-start;}
 .boxImg img{width: 400px;}
 
