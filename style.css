@@ -1,3 +1,12 @@
+
+ *{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
 *{margin: 0;padding: 0;box-sizing: border-box;}
 body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-image: url(img/bg.png);color:#ffff;}
 
